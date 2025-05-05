@@ -1,0 +1,21 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Entornos
+.env
+.env.local
+.env.*.local
+
+# Dependencias opcionales
+.pnpm-debug.log
+yarn.lock
+package-lock.json
+
+# Directorios del sistema operativo
+.DS_Store
+Thumbs.db
